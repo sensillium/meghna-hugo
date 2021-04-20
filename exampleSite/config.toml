@@ -1,4 +1,4 @@
-baseURL = "https://apidaya-netify.com"
+baseURL = "https://apidaya.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
