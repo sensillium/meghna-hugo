@@ -1,5 +1,5 @@
 baseURL = "https://apidaya.netlify.app"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
