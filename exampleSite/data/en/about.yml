@@ -1,16 +1,17 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Building what is needed to support the user experience
+    content: Creating the tools, strategies and processes that allow the business
+      to deliver the best customer experience, be that internal or external.
+  - icon: ti-cup
+    title: We're Professional
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-thought
+    title: We're Genius
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
