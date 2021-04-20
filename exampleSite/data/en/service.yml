@@ -3,6 +3,12 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Automation
+    icon: ''
+    content: If it you're going to do it more than once, or expect it to happen when
+      you aren't here, automate it. Automation offers many benefits, form removing
+      human error, to increased security or letting the valuable humans get on with
+      more exciting tasks.
   - name: Security
     icon: ''
     content: Either enhancing exiting security through practise integration of defining
