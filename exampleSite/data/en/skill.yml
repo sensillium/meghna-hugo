@@ -3,9 +3,8 @@ skill:
   enable: true
   title: Our Skills
   subtitle: Embodying the skills required to support and enhance the DevOps experience
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  content: Continuously practising and adapting existing skills while improving and
+    adopting new skills.
   image: images/about/company-growth.webp
   skill_item:
   - name: Infrastructure as Code
