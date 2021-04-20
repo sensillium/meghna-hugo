@@ -14,7 +14,7 @@ skill:
     percent: 70%
   - name: CI/CD creation and management
     percent: 80%
-  - name: IOS Development
+  - name: Legacy application migration
     percent: 95%
   - name: Android Development
     percent: 75%
