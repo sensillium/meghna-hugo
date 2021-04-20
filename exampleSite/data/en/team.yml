@@ -4,8 +4,8 @@ team:
   title: The Team
   team_member:
   - name: Richard Mitchell
-    image_webp: https://photos.app.goo.gl/Qvb4CrK6UUBxGxVB6
-    image: ''
+    image_webp: https://apidaya-content.s3.eu-west-2.amazonaws.com/1618581184501.webp
+    image: https://apidaya-content.s3.eu-west-2.amazonaws.com/1618581184501.jpg
     designation: Founder
     content: ''
     social:
