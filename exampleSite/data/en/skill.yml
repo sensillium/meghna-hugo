@@ -16,5 +16,5 @@ skill:
     percent: 80%
   - name: Legacy application migration
     percent: 95%
-  - name: Android Development
+  - name: Security, monitoring and feedback integration
     percent: 75%
