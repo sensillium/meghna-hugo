@@ -4,9 +4,9 @@ team:
   title: Our Team
   team_member:
   - name: Richard Mitchell
-    image_webp: ''
+    image_webp: https://photos.app.goo.gl/Qvb4CrK6UUBxGxVB6
     image: ''
-    designation: ''
+    designation: Founder
     content: ''
     social:
     - icon: ''
