@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: The Team
   team_member:
   - name: Richard Mitchell
     image_webp: https://photos.app.goo.gl/Qvb4CrK6UUBxGxVB6
@@ -11,18 +11,3 @@ team:
     social:
     - icon: ''
       link: https://www.linkedin.com/in/richard-mitchell-39579513/
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
