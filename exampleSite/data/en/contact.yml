@@ -9,10 +9,6 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: Peterborough, England. United Kingdom.
-  - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: contact@apidaya.com'
   contact_form:
