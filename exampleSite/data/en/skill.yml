@@ -7,8 +7,10 @@ skill:
     adopting new skills.
   image: images/about/company-growth.webp
   skill_item:
+  - name: Secrets management
+    percent: "90"
   - name: Infrastructure as Code
-    percent: 90%
+    percent: 100%
   - name: Public cloud infrastructure
     percent: 70%
   - name: CI/CD creation and management
