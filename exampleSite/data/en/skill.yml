@@ -16,6 +16,6 @@ skill:
   - name: CI/CD creation and management
     percent: 80%
   - name: Legacy application migration
-    percent: 95%
+    percent: 85%
   - name: Security, monitoring and feedback integration
     percent: 75%
