@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/a-rose-by-any-other-name-would-smell-as-sweet.md
 - exampleSite/content/english/blog/terraform-associate-certificate-gained.md
